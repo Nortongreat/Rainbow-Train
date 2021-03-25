@@ -2,4 +2,5 @@ Purple
 Pink
 Blue
 Red
+Green
 These are my favorite colors. 
